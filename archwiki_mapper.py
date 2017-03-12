@@ -1,7 +1,6 @@
 import os
 from bs4 import BeautifulSoup
 import networkx as nx
-import matplotlib.pyplot as plt
 
 G = nx.Graph()
 
